@@ -1,0 +1,32 @@
+{
+  "name": "base64-svg-watermark",
+  "version": "1.0.1",
+  "description": "base64 svg watermark",
+  "main": "dist/index.min.js",
+  "files": [
+    "dist/index.min.js",
+    "test/*",
+    ".editorconfig",
+    "package.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgqfrms/base64-svg-watermark.git"
+  },
+  "keywords": [
+    "base63",
+    "svg",
+    "watermark"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgqfrms/base64-svg-watermark/issues"
+  },
+  "homepage": "https://github.com/xgqfrms/base64-svg-watermark#readme"
+}
